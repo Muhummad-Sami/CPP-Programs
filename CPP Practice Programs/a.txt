@@ -1,0 +1,17 @@
+//	print.close();
+	string base;
+	ifstream file("xyz.txt",ios::in);
+	if(!file.is_open())
+	{
+		cout<<"Opening error.";
+	}
+	else{
+		while(!file.eof())
+		{
+			base=file.get();
+			cout<<base;
+		}
+	}
+	
+	
+}

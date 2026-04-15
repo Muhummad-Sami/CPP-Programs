@@ -1,0 +1,42 @@
+==================================================
+                   BILL SUMMARY                   
+==================================================
+
+Costumer Name:                Saad Akhtar
+30% Discount Given!
+Number of Items Bought:       2
+Total Price :             Rs. 4500
+Discout :                 Rs. 1350
+Total Bill :              Rs. 3150
+
+==================================================
+         THANK YOU FOR SHOPPING WITH US!          
+==================================================
+==================================================
+                   BILL SUMMARY                   
+==================================================
+
+Costumer Name:                samii
+25% Discount Given!
+Number of Items Bought:       2
+Total Price :             Rs. 2880
+Discout :                 Rs. 720
+Total Bill :              Rs. 2160
+
+==================================================
+         THANK YOU FOR SHOPPING WITH US!          
+==================================================
+==================================================
+                   BILL SUMMARY                   
+==================================================
+
+Costumer Name:                sami
+25% Discount Given!
+Number of Items Bought:       3
+Total Price :             Rs. 4000
+Discout :                 Rs. 1000
+Total Bill :              Rs. 3000
+
+==================================================
+         THANK YOU FOR SHOPPING WITH US!          
+==================================================

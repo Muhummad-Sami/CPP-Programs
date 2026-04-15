@@ -1,0 +1,3 @@
+file handling practice.
+my name is sami. 
+Today i am learning file handling in c++.

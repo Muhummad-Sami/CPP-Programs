@@ -1,0 +1,10 @@
+1)Egg            1-Dozen    300	
+2)Bread          1-piece    200	
+3)Milk           1-kg       250	
+4)Cake           1-pound    850	
+5)Sandwich       1-piece    80	
+6)Cold-drink     1-liter    220	
+7)Biscuits       1-kg       1100	
+8)Brownie        1-piece    450	
+9)Lays           1-piece    100	
+10)Donuts        1-piece    150	
