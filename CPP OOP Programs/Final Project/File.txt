@@ -1,0 +1,637 @@
+
+					---------- Customer Details ----------
+
+ Customer Name: sami
+ Father's Name: abid
+ National ID: 1234
+ Phone Number: 432
+
+					---------- Journey Details -----------
+
+ Pickup Point: lahore
+ Drop Point: peshawer
+ Distance In Km: 234
+
+					---------- Bill Details --------------
+
+ Total Rent: 620000
+ Discount: 93000
+ Final Amount after Discount: 527000
+
+					---------- Booked Car Details --------
+
+ Normal Cars Info 			 Bridal Cars Info 
+
+ Car Name: Toyota Corolla 			 Car Name: Porsche
+ Rent Per Day: 80000 			 Rent Per Day: 180000
+ Booking Date: 12 			 Booking Date: 23
+ Number of Days: 1 			 Number of Days: 3
+ Number of Cars: 1 			 Number of Cars: 1
+
+					---------- Customer Details ----------
+
+ Customer Name: 
+ Father's Name: 
+ National ID: 
+ Phone Number: 
+
+					---------- Journey Details -----------
+
+ Pickup Point: 
+ Drop Point: 
+ Distance In Km: 0
+
+					---------- Bill Details --------------
+
+ Total Rent: 1180000
+ Discount: 0
+ Final Amount after Discount: 1180000
+
+					---------- Booked Car Details --------
+
+ Normal Cars Info 			 Bridal Cars Info 
+
+ Car Name: Toyota Corolla 			 Car Name: Bugatti
+ Rent Per Day: 80000 			 Rent Per Day: 200000
+ Booking Date: 2 			 Booking Date: 2
+ Number of Days: 3 			 Number of Days: 1
+ Number of Cars: 1 			 Number of Cars: 2
+
+ Total Amount: 1180000
+ Paid Amount: 0
+
+					---------- Customer Details ----------
+
+ Customer Name: sami
+ Father's Name: abid
+ National ID: 310092099
+ Phone Number: 93829539
+
+					---------- Journey Details -----------
+
+ Pickup Point: lahotr
+ Drop Point: multan
+ Distance In Km: 300
+
+					---------- Bill Details --------------
+
+ Total Rent: 840000
+ Discount: 126000
+ Final Amount after Discount: 714000
+
+					---------- Booked Car Details --------
+
+ Normal Cars Info 			 Bridal Cars Info 
+
+ Car Name: Toyota Corolla 			 Car Name: Porsche
+ Rent Per Day: 80000 			 Rent Per Day: 180000
+ Booking Date: 3 			 Booking Date: 2
+ Number of Days: 3 			 Number of Days: 1
+ Number of Cars: 2 			 Number of Cars: 2
+
+ Total Amount: 714000
+ Paid Amount: 0
+
+					---------- Customer Details ----------
+
+ Customer Name: sami
+ Father's Name: abid
+ National ID: 310092099
+ Phone Number: 93829539
+
+					---------- Journey Details -----------
+
+ Pickup Point: lahotr
+ Drop Point: multan
+ Distance In Km: 300
+
+					---------- Bill Details --------------
+
+ Total Rent: 840000
+ Discount: 126000
+ Final Amount after Discount: 714000
+
+					---------- Booked Car Details --------
+
+ Normal Cars Info 			 Bridal Cars Info 
+
+ Car Name: Toyota Corolla 			 Car Name: Porsche
+ Rent Per Day: 80000 			 Rent Per Day: 180000
+ Booking Date: 3 			 Booking Date: 2
+ Number of Days: 3 			 Number of Days: 1
+ Number of Cars: 2 			 Number of Cars: 2
+
+ Total Amount: 714000
+ Paid Amount: 0
+
+					---------- Customer Details ----------
+
+ Customer Name: sami
+ Father's Name: abid
+ National ID: 310299039
+ Phone Number: 0920903590
+
+					---------- Journey Details -----------
+
+ Pickup Point: lahore
+ Drop Point: multan
+ Distance In Km: 200
+
+					---------- Bill Details --------------
+
+ Total Rent: 900000
+ Discount: 0
+ Final Amount after Discount: 100000
+
+					---------- Booked Car Details --------
+
+ Normal Cars Info 			 Bridal Cars Info 
+
+ Car Name: Kia Sportage 			 Car Name: Bugatti
+ Rent Per Day: 100000 			 Rent Per Day: 200000
+ Booking Date: 2 			 Booking Date: 12
+ Number of Days: 3 			 Number of Days: 3
+ Number of Cars: 1 			 Number of Cars: 1
+
+ Total Amount: 100000
+ Paid Amount: 800000
+
+					---------- Customer Details ----------
+
+ Customer Name: sami
+ Father's Name: abid
+ National ID: 310299039
+ Phone Number: 0920903590
+
+					---------- Journey Details -----------
+
+ Pickup Point: lahore
+ Drop Point: multan
+ Distance In Km: 200
+
+					---------- Bill Details --------------
+
+ Total Rent: 900000
+ Discount: 0
+ Final Amount after Discount: 0
+
+					---------- Booked Car Details --------
+
+ Normal Cars Info 			 Bridal Cars Info 
+
+ Car Name: Kia Sportage 			 Car Name: Bugatti
+ Rent Per Day: 100000 			 Rent Per Day: 200000
+ Booking Date: 2 			 Booking Date: 12
+ Number of Days: 3 			 Number of Days: 3
+ Number of Cars: 1 			 Number of Cars: 1
+
+ Total Amount: 0
+ Paid Amount: 100000
+
+					---------- Customer Details ----------
+
+ Customer Name: sami
+ Father's Name: abid
+ National ID: 832898
+ Phone Number: 892384
+
+					---------- Journey Details -----------
+
+ Pickup Point: lahore
+ Drop Point: multan
+ Distance In Km: 200
+
+					---------- Bill Details --------------
+
+ Total Rent: 300000
+ Discount: 0
+ Final Amount after Discount: 300000
+
+					---------- Booked Car Details --------
+
+ Normal Cars Info 			 Bridal Cars Info 
+
+ Car Name: Kia Sportage 			 Car Name: Bugatti
+ Rent Per Day: 100000 			 Rent Per Day: 200000
+ Booking Date: 12 			 Booking Date: 14
+ Number of Days: 1 			 Number of Days: 1
+ Number of Cars: 1 			 Number of Cars: 1
+
+ Total Amount: 300000
+ Paid Amount: 200000
+
+					---------- Customer Details ----------
+
+ Customer Name: sami
+ Father's Name: abid
+ National ID: 832898
+ Phone Number: 892384
+
+					---------- Journey Details -----------
+
+ Pickup Point: lahore
+ Drop Point: multan
+ Distance In Km: 200
+
+					---------- Bill Details --------------
+
+ Total Rent: 300000
+ Discount: 0
+ Final Amount after Discount: 300000
+
+					---------- Booked Car Details --------
+
+ Normal Cars Info 			 Bridal Cars Info 
+
+ Car Name: Kia Sportage 			 Car Name: Bugatti
+ Rent Per Day: 100000 			 Rent Per Day: 200000
+ Booking Date: 12 			 Booking Date: 14
+ Number of Days: 1 			 Number of Days: 1
+ Number of Cars: 1 			 Number of Cars: 1
+
+ Total Amount: 300000
+ Paid Amount: 200000
+
+					---------- Customer Details ----------
+
+ Customer Name: sami
+ Father's Name: abid
+ National ID: 832898
+ Phone Number: 892384
+
+					---------- Journey Details -----------
+
+ Pickup Point: lahore
+ Drop Point: multan
+ Distance In Km: 200
+
+					---------- Bill Details --------------
+
+ Total Rent: 300000
+ Discount: 0
+ Final Amount after Discount: 0
+
+					---------- Booked Car Details --------
+
+ Normal Cars Info 			 Bridal Cars Info 
+
+ Car Name: Kia Sportage 			 Car Name: Bugatti
+ Rent Per Day: 100000 			 Rent Per Day: 200000
+ Booking Date: 12 			 Booking Date: 14
+ Number of Days: 1 			 Number of Days: 1
+ Number of Cars: 1 			 Number of Cars: 1
+
+ Total Amount: 0
+ Paid Amount: 300000
+
+					---------- Customer Details ----------
+
+ Customer Name: sami
+ Father's Name: abid
+ National ID: 2345789
+ Phone Number: 25364785
+
+					---------- Journey Details -----------
+
+ Pickup Point: lahore
+ Drop Point: multan
+ Distance In Km: 300
+
+					---------- Bill Details --------------
+
+ Total Rent: 360000
+ Discount: 54000
+ Final Amount after Discount: 6000
+
+					---------- Booked Car Details --------
+
+ Normal Cars Info 			 Bridal Cars Info 
+
+ Car Name: Honda Civic 			 Car Name: Porsche
+ Rent Per Day: 90000 			 Rent Per Day: 180000
+ Booking Date: 12 			 Booking Date: 15
+ Number of Days: 2 			 Number of Days: 1
+ Number of Cars: 1 			 Number of Cars: 1
+
+ Total Amount: 6000
+ Paid Amount: 300000
+
+					---------- Customer Details ----------
+
+ Customer Name: sami
+ Father's Name: abid
+ National ID: 2345789
+ Phone Number: 25364785
+
+					---------- Journey Details -----------
+
+ Pickup Point: lahore
+ Drop Point: multan
+ Distance In Km: 300
+
+					---------- Bill Details --------------
+
+ Total Rent: 360000
+ Discount: 54000
+ Final Amount after Discount: 0
+
+					---------- Booked Car Details --------
+
+ Normal Cars Info 			 Bridal Cars Info 
+
+ Car Name: Honda Civic 			 Car Name: Porsche
+ Rent Per Day: 90000 			 Rent Per Day: 180000
+ Booking Date: 12 			 Booking Date: 15
+ Number of Days: 2 			 Number of Days: 1
+ Number of Cars: 1 			 Number of Cars: 1
+
+ Total Amount: 0
+ Paid Amount: 6000
+
+					---------- Customer Details ----------
+
+ Customer Name: sami
+ Father's Name: rehman
+ National ID: 12314
+ Phone Number: 12345
+
+					---------- Journey Details -----------
+
+ Pickup Point: 
+ Drop Point: 
+ Distance In Km: 0
+
+					---------- Bill Details --------------
+
+ Total Rent: 0
+ Discount: 0
+ Final Amount after Discount: 0
+
+					---------- Booked Car Details --------
+
+ Normal Cars Info 			 Bridal Cars Info 
+
+ Car Name:  			 Car Name: 
+ Rent Per Day: 0 			 Rent Per Day: 0
+ Booking Date:  			 Booking Date: 
+ Number of Days: 0 			 Number of Days: 0
+ Number of Cars: 0 			 Number of Cars: 0
+
+ Total Amount: 0
+ Paid Amount: 0
+
+					---------- Customer Details ----------
+
+ Customer Name: sami\
+ Father's Name: abid
+ National ID: 3127435657
+ Phone Number: 92837467
+
+					---------- Journey Details -----------
+
+ Pickup Point: lahore
+ Drop Point: multan
+ Distance In Km: 300
+
+					---------- Bill Details --------------
+
+ Total Rent: 700000
+ Discount: 105000
+ Final Amount after Discount: 0
+
+					---------- Booked Car Details --------
+
+ Normal Cars Info 			 Bridal Cars Info 
+
+ Car Name: Suzuki Alto 			 Car Name: Bugatti
+ Rent Per Day: 50000 			 Rent Per Day: 200000
+ Booking Date: 12 			 Booking Date: 15
+ Number of Days: 1 			 Number of Days: 3
+ Number of Cars: 2 			 Number of Cars: 1
+
+ Total Amount: 0
+ Paid Amount: 595000
+
+					---------- Customer Details ----------
+
+ Customer Name: sami
+ Father's Name: abid
+ National ID: 6789023345
+ Phone Number: 543421
+
+					---------- Journey Details -----------
+
+ Pickup Point: lahore
+ Drop Point: multan
+ Distance In Km: 340
+
+					---------- Bill Details --------------
+
+ Total Rent: 660000
+ Discount: 99000
+ Final Amount after Discount: 504900
+
+					---------- Booked Car Details --------
+
+ Normal Cars Info 			 Bridal Cars Info 
+
+ Car Name: Toyota Corolla 			 Car Name: Porsche
+ Rent Per Day: 80000 			 Rent Per Day: 180000
+ Booking Date: 43 			 Booking Date: 12
+ Number of Days: 3 			 Number of Days: 1
+ Number of Cars: 2 			 Number of Cars: 1
+
+ Total Amount: 504900
+ Paid Amount: 56100
+
+					---------- Customer Details ----------
+
+ Customer Name: sami
+ Father's Name: abid
+ National ID: 6789023345
+ Phone Number: 543421
+
+					---------- Journey Details -----------
+
+ Pickup Point: lahore
+ Drop Point: multan
+ Distance In Km: 340
+
+					---------- Bill Details --------------
+
+ Total Rent: 660000
+ Discount: 99000
+ Final Amount after Discount: 504900
+
+					---------- Booked Car Details --------
+
+ Normal Cars Info 			 Bridal Cars Info 
+
+ Car Name: Toyota Corolla 			 Car Name: Porsche
+ Rent Per Day: 80000 			 Rent Per Day: 180000
+ Booking Date: 43 			 Booking Date: 12
+ Number of Days: 3 			 Number of Days: 1
+ Number of Cars: 2 			 Number of Cars: 1
+
+ Total Amount: 504900
+ Paid Amount: 0
+
+					---------- Customer Details ----------
+
+ Customer Name: sami
+ Father's Name: abid
+ National ID: 6789023345
+ Phone Number: 543421
+
+					---------- Journey Details -----------
+
+ Pickup Point: lahore
+ Drop Point: multan
+ Distance In Km: 340
+
+					---------- Bill Details --------------
+
+ Total Rent: 660000
+ Discount: 99000
+ Final Amount after Discount: 504900
+
+					---------- Booked Car Details --------
+
+ Normal Cars Info 			 Bridal Cars Info 
+
+ Car Name: Toyota Corolla 			 Car Name: Porsche
+ Rent Per Day: 80000 			 Rent Per Day: 180000
+ Booking Date: 43 			 Booking Date: 12
+ Number of Days: 3 			 Number of Days: 1
+ Number of Cars: 2 			 Number of Cars: 1
+
+ Total Amount: 504900
+ Paid Amount: 504900
+
+					---------- Customer Details ----------
+
+ Customer Name: sami
+ Father's Name: abid
+ National ID: 213456
+ Phone Number: 1234567
+
+					---------- Journey Details -----------
+
+ Pickup Point: lahore
+ Drop Point: multan
+ Distance In Km: 2457
+
+					---------- Bill Details --------------
+
+ Total Rent: 600000
+ Discount: 90000
+ Final Amount after Discount: 510000
+
+					---------- Booked Car Details --------
+
+ Normal Cars Info 			 Bridal Cars Info 
+
+ Car Name:  			 Car Name: Bugatti
+ Rent Per Day: 0 			 Rent Per Day: 200000
+ Booking Date: 12 			 Booking Date: 
+ Number of Days: 0 			 Number of Days: 3
+ Number of Cars: 0 			 Number of Cars: 1
+
+ Total Amount: 510000
+ Paid Amount: 510000
+
+					---------- Customer Details ----------
+
+ Customer Name: 
+ Father's Name: 
+ National ID: 
+ Phone Number: 
+
+					---------- Journey Details -----------
+
+ Pickup Point: 
+ Drop Point: 
+ Distance In Km: 0
+
+					---------- Bill Details --------------
+
+ Total Rent: 400000
+ Discount: 0
+ Final Amount after Discount: 400000
+
+					---------- Booked Car Details --------
+
+ Normal Cars Info 			 Bridal Cars Info 
+
+ Car Name:  			 Car Name: Bugatti
+ Rent Per Day: 0 			 Rent Per Day: 200000
+ Booking Date:  			 Booking Date: 12
+ Number of Days: 0 			 Number of Days: 1
+ Number of Cars: 0 			 Number of Cars: 2
+
+ Total Amount: 400000
+ Paid Amount: 0
+
+					---------- Customer Details ----------
+
+ Customer Name: sami
+ Father's Name: abid
+ National ID: 1234
+ Phone Number: 4321
+
+					---------- Journey Details -----------
+
+ Pickup Point: 
+ Drop Point: 
+ Distance In Km: 0
+
+					---------- Bill Details --------------
+
+ Total Rent: 0
+ Discount: 0
+ Final Amount after Discount: 0
+
+					---------- Booked Car Details --------
+
+ Normal Cars Info 			 Bridal Cars Info 
+
+ Car Name:  			 Car Name: 
+ Rent Per Day: 0 			 Rent Per Day: 0
+ Booking Date:  			 Booking Date: 
+ Number of Days: 0 			 Number of Days: 0
+ Number of Cars: 0 			 Number of Cars: 0
+
+ Total Amount: 0
+ Paid Amount: 0
+
+					---------- Customer Details ----------
+
+ Customer Name: 
+ Father's Name: 
+ National ID: 
+ Phone Number: 
+
+					---------- Journey Details -----------
+
+ Pickup Point: 
+ Drop Point: 
+ Distance In Km: 0
+
+					---------- Bill Details --------------
+
+ Total Rent: 0
+ Discount: 0
+ Final Amount after Discount: 0
+
+					---------- Booked Car Details --------
+
+ Normal Cars Info 			 Bridal Cars Info 
+
+ Car Name:  			 Car Name: 
+ Rent Per Day: 0 			 Rent Per Day: 0
+ Booking Date:  			 Booking Date: 
+ Number of Days: 0 			 Number of Days: 0
+ Number of Cars: 0 			 Number of Cars: 0
+
+ Total Amount: 0
+ Paid Amount: 0
